@@ -1,0 +1,14 @@
+E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Debug\net10.0\CortanaIPC.deps.json
+E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Debug\net10.0\CortanaIPC.dll
+E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Debug\net10.0\CortanaIPC.pdb
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\CortanaIPC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\CortanaIPC.AssemblyInfoInputs.cache
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\CortanaIPC.AssemblyInfo.cs
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\CortanaIPC.csproj.CoreCompileInputs.cache
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\CortanaIPC.dll
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\refint\CortanaIPC.dll
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\CortanaIPC.pdb
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Debug\net10.0\ref\CortanaIPC.dll
+C:\Users\GohokuHI\AppData\Local\Temp\claude\E--Development-AI-ContanaXIHealer\59e01e79-a044-4610-b26a-e8e8afd28997\scratchpad\ipctest\out\CortanaIPC.deps.json
+C:\Users\GohokuHI\AppData\Local\Temp\claude\E--Development-AI-ContanaXIHealer\59e01e79-a044-4610-b26a-e8e8afd28997\scratchpad\ipctest\out\CortanaIPC.dll
+C:\Users\GohokuHI\AppData\Local\Temp\claude\E--Development-AI-ContanaXIHealer\59e01e79-a044-4610-b26a-e8e8afd28997\scratchpad\ipctest\out\CortanaIPC.pdb

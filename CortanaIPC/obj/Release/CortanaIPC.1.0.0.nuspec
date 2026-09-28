@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CortanaIPC</id>
+    <version>1.0.0</version>
+    <authors>CortanaIPC</authors>
+    <description>App-side link to the Windower "cortana" addon for Final Fantasy XI: live game state (player, party, entities, recasts, buffs, chat, combat, NPC dialogs) and commands (movement, targeting, chat, keys, NPC selling / replay).</description>
+    <repository type="git" commit="5a17e230c04bb06f562cfbab7faf96c0978eb36a" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Release\net10.0\CortanaIPC.dll" target="lib\net10.0\CortanaIPC.dll" />
+    <file src="E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Release\netstandard2.0\CortanaIPC.dll" target="lib\netstandard2.0\CortanaIPC.dll" />
+  </files>
+</package>

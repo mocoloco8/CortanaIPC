@@ -1,0 +1,11 @@
+E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Release\net10.0\CortanaIPC.deps.json
+E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Release\net10.0\CortanaIPC.dll
+E:\Development\AI\ContanaXIHealer\CortanaIPC\bin\Release\net10.0\CortanaIPC.pdb
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\CortanaIPC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\CortanaIPC.AssemblyInfoInputs.cache
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\CortanaIPC.AssemblyInfo.cs
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\CortanaIPC.csproj.CoreCompileInputs.cache
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\CortanaIPC.dll
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\refint\CortanaIPC.dll
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\CortanaIPC.pdb
+E:\Development\AI\ContanaXIHealer\CortanaIPC\obj\Release\net10.0\ref\CortanaIPC.dll
